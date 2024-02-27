@@ -1,0 +1,21 @@
+body { background-color: blue;}
+
+a { color:red;}
+
+.Cyclops { background-color: aqua;
+
+
+display:inline-block;
+
+position: fixed;
+
+left: 35%;}
+
+p { font-size: 30px;
+
+font-family: 'Satisfy', cursive;}
+
+
+#Nav { background-color: darkcyan;
+
+height:50px;}

@@ -1,0 +1,51 @@
+body {background-color: grey;}
+
+a { color:orange;}
+
+
+/*.JeanGrey { display:inline-block;
+
+    position: fixed;
+    
+    left: 35%;
+
+    
+
+    background-color: red; height: 5000px; width: 50px;}
+
+
+
+    .Beast{ display:inline-block;
+
+        position: fixed;
+
+left:38%;}
+
+
+.Storm { background-color: blueviolet;
+
+    width: fit-content;
+
+    padding:  88px;
+
+    margin:auto;
+
+} */
+
+section { background-color: purple;
+
+    border:10px;
+
+    max-width:700px;
+
+    margin: auto;
+
+    align-items: center;
+
+    justify-content:center; }
+
+    h1 { text-align: center;}
+
+    h2{ text-align: center;}
+
+    
