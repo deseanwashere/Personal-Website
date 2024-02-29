@@ -1,38 +1,43 @@
 body {background-color: grey;}
 
-a { color:orange;}
+a { color:orange;
+
+font-size: 33px;}
+
+nav { background-color: darkcyan;
+
+    display: flex; 
+
+    justify-content: space-evenly;}
 
 
-/*.JeanGrey { display:inline-block;
 
-    position: fixed;
+    h1{ text-align: center
+        ;}
+
     
-    left: 35%;
 
+
+.JeanGrey { display: flex;
+flex-direction: column;
+align-items: center;}
+
+
+    .Beast{ display: flex;
+        flex-direction: column;
+        align-items: center;
     
+        }
 
-    background-color: red; height: 5000px; width: 50px;}
+.Storm {
 
+    display: flex;
+flex-direction: column;
+align-items: center;
 
+} 
 
-    .Beast{ display:inline-block;
-
-        position: fixed;
-
-left:38%;}
-
-
-.Storm { background-color: blueviolet;
-
-    width: fit-content;
-
-    padding:  88px;
-
-    margin:auto;
-
-} */
-
-section { background-color: purple;
+/*section { background-color: purple;
 
     border:10px;
 
@@ -46,6 +51,13 @@ section { background-color: purple;
 
     h1 { text-align: center;}
 
-    h2{ text-align: center;}
+    h2{ text-align: center;  
+    
+    
+    /*isplay:inline-block;
+
+    position: fixed;
+    
+    left: 35%; */
 
     

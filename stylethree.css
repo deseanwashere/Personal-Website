@@ -1,6 +1,14 @@
-body {background-color: beige;}
+body {background-color: grey;}
 
-a { color: green;}
+a { color: orange;
+
+font-size: 33px;}
+
+nav { background-color: darkcyan;
+
+    display: flex; 
+
+    justify-content: space-evenly; }
 
 /*section { background-color: purple;
 
@@ -17,13 +25,9 @@ a { color: green;}
     justify-content:center;}*/
 
 
-.Vergil {background: blue;
+section  { display: flex;
+    flex-direction: column;
+    align-items: center;
 
-width: 600px;
-
-height: 1000px;
-
-margin-left:auto;
-
-margin-right:auto;}
+}
 
